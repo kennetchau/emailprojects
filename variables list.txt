@@ -1,0 +1,8 @@
+0-values['name']
+1- values['email']
+2- Day
+3- Whatday
+4- values['startime']
+5- values["endtime"]
+6- values['machine'].upper()
+7- values['title']

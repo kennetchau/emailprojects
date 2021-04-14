@@ -1,0 +1,14 @@
+Hi John,
+
+You have booked the room [C] at  [11:00 - 16:00] Apr 15 (Thursday) but not come to use it for the whole timeslot.
+“No show” penalty is added.
+The rest of bookings of today or next two bookings are removed if there are any.
+
+Please cancel you booking 30 mins before (online) or come to find  at the start of timeslot if you do not use it.
+
+*please replace this line with your name 
+*please replace this line with your department here
+*please replace this line with your company here
+
+john@gmail.com
+No show room D
