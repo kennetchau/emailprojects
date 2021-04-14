@@ -12,5 +12,5 @@ datetime, calendar, PySimpleGUI, os, pyperclip, codecs
 ## How to use
 Just run the editemail.exe.
 
-##Screenshot
+##### Screenshot
 ![giu](https://github.com/kennetchau/emailprojects/blob/main/interface.PNG)
